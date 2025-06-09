@@ -1,0 +1,197 @@
+[
+  {
+    "id": "rcti",
+    "server": "RCTI",
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749503257~acl=%2F*~data=hdntl~hmac=eea75f5b8f332c95586f29447a3515e712a0f7d57487802c43b10ee96bdd39ed/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "gtv",
+    "server": "GTV",
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749503257~acl=%2F*~data=hdntl~hmac=eea75f5b8f332c95586f29447a3515e712a0f7d57487802c43b10ee96bdd39ed/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "mnctv",
+    "server": "MNCTV",
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749503257~acl=%2F*~data=hdntl~hmac=eea75f5b8f332c95586f29447a3515e712a0f7d57487802c43b10ee96bdd39ed/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "inews",
+    "server": "INEWS",
+    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749503257~acl=%2F*~data=hdntl~hmac=eea75f5b8f332c95586f29447a3515e712a0f7d57487802c43b10ee96bdd39ed/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "trans7",
+    "server": "TRANS7",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+  },
+  {
+    "id": "transtv",
+    "server": "TRANSTV",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+  },
+  {
+    "id": "antv",
+    "server": "ANTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv"
+  },
+  {
+    "id": "metrotv",
+    "server": "METROTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV"
+  },
+  {
+    "id": "tvone",
+    "server": "TVONE",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne"
+  },
+  {
+    "id": "kompastv",
+    "server": "KOMPASTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV"
+  },
+  {
+    "id": "beritasatu",
+    "server": "BERITA_SATU",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index2.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
+  },
+  {
+    "id": "mdtv",
+    "server": "MDTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV"
+  },
+  {
+    "id": "rtv",
+    "server": "RTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV"
+  },
+  {
+    "id": "magnachanel",
+    "server": "MAGNA_CHANEL",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel"
+  },
+  {
+    "id": "tvrisport",
+    "server": "TVRI_SPORT",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport"
+  },
+  {
+    "id": "tvri",
+    "server": "TVRI",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI"
+  },
+  {
+    "id": "jaktv",
+    "server": "JAKTV",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=lite&chname=Jak_tv"
+  },
+  {
+    "id": "rodjatv",
+    "server": "RODJATV",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=lite&chname=RodjaTV"
+  },
+  {
+    "id": "aniplushd",
+    "server": "ANIPLUS HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD"
+  },
+  {
+    "id": "mykidzhd",
+    "server": "MY KIDZ HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD"
+  },
+  {
+    "id": "rockentertainmenthd",
+    "server": "ROCK ENTERTAINMENT HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD"
+  },
+  {
+    "id": "rockaction",
+    "server": "ROCK ACTION",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action"
+  },
+  {
+    "id": "kixhd",
+    "server": "KIX HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&userid=lite&chname=KIX_HD"
+  },
+  {
+    "id": "kbskorea",
+    "server": "KBS KOREA",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea"
+  },
+  {
+    "id": "kbsworld",
+    "server": "KBS WORLD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World"
+  },
+  {
+    "id": "khd",
+    "server": "K+ HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD"
+  },
+  {
+    "id": "tvnhd",
+    "server": "TVN HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=lite&chname=tvN_HD"
+  },
+  {
+    "id": "tvnmovieshd",
+    "server": "TVN MOVIES HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD"
+  },
+  {
+    "id": "celestialmovieshd",
+    "server": "CELESTIAL MOVIES HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=Celestial_Movies_HD"
+  },
+  {
+    "id": "ccmcelestialclassicmv",
+    "server": "CCM CELESTIAL CLASSIC MV",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=CCM_Celestial_Classic_MV-"
+  },
+  {
+    "id": "mycinemaasia",
+    "server": "MY CINEMA ASIA",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia"
+  },
+  {
+    "id": "thrill",
+    "server": "THRILL",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=lite&chname=Thrill"
+  },
+  {
+    "id": "mycinemaeuropehd",
+    "server": "MY CINEMA EUROPE HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD"
+  },
+  {
+    "id": "tv5mondestylehd",
+    "server": "TV5MONDE STYLE HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_Style_HD"
+  },
+  {
+    "id": "crematv",
+    "server": "CREMATV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV"
+  },
+  {
+    "id": "dancetv",
+    "server": "DANCE TV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&userid=lite&chname=Dance_TV"
+  },
+  {
+    "id": "fightsportshd",
+    "server": "FIGHT SPORTS HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD"
+  },
+  {
+    "id": "motorvision",
+    "server": "MOTORVISION",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B"
+  },
+  {
+    "id": "wsport",
+    "server": "W SPORT",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport"
+  }
+]
