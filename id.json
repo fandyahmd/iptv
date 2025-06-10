@@ -2,22 +2,52 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749543087~acl=%2F*~data=hdntl~hmac=161548ab743140ef2f4a4511ae60e8d1c637662f00aabe98db225e576aa56354/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749543940~acl=%2F*~data=hdntl~hmac=b2487b2a72af1ac35f11e43b1be44c2067435089618cfcdd2d2b1e5dbfeb7cc0/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749543087~acl=%2F*~data=hdntl~hmac=161548ab743140ef2f4a4511ae60e8d1c637662f00aabe98db225e576aa56354/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749543940~acl=%2F*~data=hdntl~hmac=b2487b2a72af1ac35f11e43b1be44c2067435089618cfcdd2d2b1e5dbfeb7cc0/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749543087~acl=%2F*~data=hdntl~hmac=161548ab743140ef2f4a4511ae60e8d1c637662f00aabe98db225e576aa56354/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749543940~acl=%2F*~data=hdntl~hmac=b2487b2a72af1ac35f11e43b1be44c2067435089618cfcdd2d2b1e5dbfeb7cc0/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "inews",
     "server": "INEWS",
-    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749543087~acl=%2F*~data=hdntl~hmac=161548ab743140ef2f4a4511ae60e8d1c637662f00aabe98db225e576aa56354/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749543940~acl=%2F*~data=hdntl~hmac=b2487b2a72af1ac35f11e43b1be44c2067435089618cfcdd2d2b1e5dbfeb7cc0/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "tvri",
+    "server": "TVRI",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+  },
+  {
+    "id": "tvrisport",
+    "server": "TVRI Sport",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+  },
+  {
+    "id": "tvriworld",
+    "server": "TVRI World",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+  },
+  {
+    "id": "trans7",
+    "server": "TRANS7",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+  },
+  {
+    "id": "transtv",
+    "server": "TRANSTV",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+  },
+  {
+    "id": "20detik",
+    "server": "20 Detik",
+    "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
   },
   {
     "id": "antv",
@@ -173,35 +203,5 @@
     "id": "wsport",
     "server": "W Sport",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport"
-  },
-  {
-    "id": "tvri",
-    "server": "TVRI",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
-  },
-  {
-    "id": "tvrisport",
-    "server": "TVRI Sport",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
-  },
-  {
-    "id": "tvriworld",
-    "server": "TVRI World",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
-  },
-  {
-    "id": "trans7",
-    "server": "TRANS7",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
-  },
-  {
-    "id": "transtv",
-    "server": "TRANSTV",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
-  },
-  {
-    "id": "20detik",
-    "server": "20 Detik",
-    "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
   }
 ]
