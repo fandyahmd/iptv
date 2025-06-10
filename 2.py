@@ -186,8 +186,8 @@ def get_links_from_channel(channel):
         combined_links = list(set(links_from_logs + links_from_html))
 
         if combined_links:
-            print(f"🔗 {len(all_links)} link ditemukan untuk {name}:")
-            for i, link in enumerate(all_links, 1):
+            print(f"🔗 {len(combined_links)} link ditemukan untuk {name}:")
+            for i, link in enumerate(combined_links, 1):
                 print(f"   {i}. {link}")
         else:
             print(f"❌ Tidak ditemukan link M3U8 untuk {name}.")
@@ -195,7 +195,7 @@ def get_links_from_channel(channel):
         print(f"⚠️ Error saat memproses {name}: {e}")
     finally:
         driver.quit()
-    return url, name, all_links
+    return url, name, combined_links
 
 async def process_all():
     print("🚀 Memulai scraping semua channel...\n")
