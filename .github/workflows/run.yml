@@ -31,7 +31,7 @@ jobs:
       - name: Run 2.py
         run: python 2.py
 
-      - name: Merge 1.json and 2.json into id.json
+      - name: Merge 1.json, 2.json, add.json into id.json
         run: python merge.py
 
       - name: Commit and push id.json
