@@ -8,189 +8,136 @@ import asyncio
 
 channels = [
   {
-    "url": "https://20.detik.com/live/trans-7",
-    "name": "TRANS7",
-    "referer": "https://20.detik.com/"
-  },
-  {
-    "url": "https://20.detik.com/live/trans-tv",
-    "name": "TRANSTV",
-    "referer": "https://20.detik.com/"
-  },
-  {
     "url": "https://www.dens.tv/tv-local/watch/8/antv",
     "name": "ANTV",
-    "referer": "https://www.dens.tv/"
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/6/metro-tv",
-    "name": "METROTV",
-    "referer": "https://www.dens.tv/"
+    "name": "Metro TV",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/7/tvone",
-    "name": "TVONE",
-    "referer": "https://www.dens.tv/"
+    "name": "TV One",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/14/kompas-tv",
-    "name": "KOMPASTV",
-    "referer": "https://www.dens.tv/"
+    "name": "Kompas TV",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/131/berita-satu",
-    "name": "BERITA_SATU",
-    "referer": "https://www.dens.tv/"
+    "name": "Berita Satu",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/13/mdtv",
-    "name": "MDTV",
-    "referer": "https://www.dens.tv/"
+    "name": "MD TV",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/22/rtv",
     "name": "RTV",
-    "referer": "https://www.dens.tv/"
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/122/magna-channel",
-    "name": "MAGNA_CHANEL",
-    "referer": "https://www.dens.tv/"
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/118/tvri-sport",
-    "name": "TVRI_SPORT",
-    "referer": "https://www.dens.tv/"
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/17/tvri",
-    "name": "TVRI",
-    "referer": "https://www.dens.tv/"
+    "name": "Magna Channel",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/112/jak-tv",
-    "name": "JAKTV",
-    "referer": "https://www.dens.tv/"
+    "name": "Jak TV",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/21/rodjatv",
-    "name": "RODJATV",
-    "referer": "https://www.dens.tv/"
+    "name": "Rodja TV",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/38/aniplus-hd",
-    "name": "ANIPLUS HD",
-    "referer": "https://www.dens.tv/"
+    "name": "Aniplus HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/96/my-kidz-hd",
-    "name": "MY KIDZ HD",
-    "referer": "https://www.dens.tv/"
+    "name": "My Kidz HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/39/rock-entertainment-hd",
-    "name": "ROCK ENTERTAINMENT HD",
-    "referer": "https://www.dens.tv/"
+    "name": "Rock Entertainment HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/44/rock-action",
-    "name": "ROCK ACTION",
-    "referer": "https://www.dens.tv/"
+    "name": "Rock Action",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/49/kix-hd",
-    "name": "KIX HD",
-    "referer": "https://www.dens.tv/"
+    "name": "Kix HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/133/kbs-korea",
-    "name": "KBS KOREA",
-    "referer": "https://www.dens.tv/"
+    "name": "KBS Korea",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/134/kbs-world",
-    "name": "KBS WORLD",
-    "referer": "https://www.dens.tv/"
+    "name": "KBS World",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/100/k-plus-hd",
     "name": "K+ HD",
-    "referer": "https://www.dens.tv/"
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/59/tvn-hd",
-    "name": "TVN HD",
-    "referer": "https://www.dens.tv/"
+    "name": "tVN HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/58/tvn-movies-hd",
-    "name": "TVN MOVIES HD",
-    "referer": "https://www.dens.tv/"
+    "name": "tVN Movies HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/99/celestial-movies-hd",
-    "name": "CELESTIAL MOVIES HD",
-    "referer": "https://www.dens.tv/"
+    "name": "Celestial Movie HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/110/ccm-celestial-classic-mv",
-    "name": "CCM CELESTIAL CLASSIC MV",
-    "referer": "https://www.dens.tv/"
+    "name": "CCM",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/109/my-cinema-asia",
-    "name": "MY CINEMA ASIA",
-    "referer": "https://www.dens.tv/"
+    "name": "My Cinema Asia",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/55/thrill",
-    "name": "THRILL",
-    "referer": "https://www.dens.tv/"
+    "name": "Thrill",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/95/my-cinema-hd",
-    "name": "MY CINEMA HD",
-    "referer": "https://www.dens.tv/"
+    "name": "My Cinema HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/92/my-cinema-europe-hd",
-    "name": "MY CINEMA EUROPE HD",
-    "referer": "https://www.dens.tv/"
+    "name": "My Cinema Europe HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/114/my-family-channel",
-    "name": "MY FAMILY CHANNEL",
-    "referer": "https://www.dens.tv/"
+    "name": "My Family",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/37/tv5monde-style-hd",
-    "name": "TV5MONDE STYLE HD",
-    "referer": "https://www.dens.tv/"
+    "name": "TV5Monde Style HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/127/crematv",
-    "name": "CREMATV",
-    "referer": "https://www.dens.tv/"
+    "name": "Crema TV",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/130/dance-tv",
-    "name": "DANCE TV",
-    "referer": "https://www.dens.tv/"
+    "name": "Dance TV",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/60/fight-sports-hd",
-    "name": "FIGHT SPORTS HD",
-    "referer": "https://www.dens.tv/"
+    "name": "Fight Sports HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/98/motorvision",
-    "name": "MOTORVISION",
-    "referer": "https://www.dens.tv/"
+    "name": "Motorvision",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/123/w-sport",
-    "name": "W SPORT",
-    "referer": "https://www.dens.tv/"
+    "name": "W Sport",
   }
 ]
 
@@ -238,12 +185,7 @@ def get_links_from_channel(channel):
 
         combined_links = list(set(links_from_logs + links_from_html))
 
-        if name in ["TRANS7", "TRANSTV"]:
-            all_links = [link for link in combined_links if "playlist.m3u8" in link]
-        else:
-            all_links = combined_links
-
-        if all_links:
+        if combined_links:
             print(f"🔗 {len(all_links)} link ditemukan untuk {name}:")
             for i, link in enumerate(all_links, 1):
                 print(f"   {i}. {link}")
