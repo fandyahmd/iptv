@@ -2,22 +2,22 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749630391~acl=%2F*~data=hdntl~hmac=b2af0136ed2b68270c403197de88a8f8059448b28f03cb17c7d5ba462fd1adfe/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749631957~acl=%2F*~data=hdntl~hmac=552ae413c79a79469b84e0ac75ccfe9b4a3326df4b6059d116ddab94f54b11a0/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749630391~acl=%2F*~data=hdntl~hmac=b2af0136ed2b68270c403197de88a8f8059448b28f03cb17c7d5ba462fd1adfe/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749631957~acl=%2F*~data=hdntl~hmac=552ae413c79a79469b84e0ac75ccfe9b4a3326df4b6059d116ddab94f54b11a0/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749630391~acl=%2F*~data=hdntl~hmac=b2af0136ed2b68270c403197de88a8f8059448b28f03cb17c7d5ba462fd1adfe/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749631957~acl=%2F*~data=hdntl~hmac=552ae413c79a79469b84e0ac75ccfe9b4a3326df4b6059d116ddab94f54b11a0/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "inews",
     "server": "INEWS",
-    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749630391~acl=%2F*~data=hdntl~hmac=b2af0136ed2b68270c403197de88a8f8059448b28f03cb17c7d5ba462fd1adfe/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749631957~acl=%2F*~data=hdntl~hmac=552ae413c79a79469b84e0ac75ccfe9b4a3326df4b6059d116ddab94f54b11a0/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "tvri",
@@ -60,14 +60,44 @@
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
   },
   {
+    "id": "metrotv",
+    "server": "Metro TV",
+    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+  },
+  {
+    "id": "magnatv",
+    "server": "Magna TV",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnn",
+    "server": "CNN",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnbc",
+    "server": "CNBC",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+  },
+  {
+    "id": "garudatv",
+    "server": "Garuda TV",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+  },
+  {
+    "id": "allplayent",
+    "server": "allplay ent.",
+    "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "id": "4ktravel",
+    "server": "4K Travel",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
+  },
+  {
     "id": "antv",
     "server": "ANTV",
     "url": "https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv"
-  },
-  {
-    "id": "metrotv",
-    "server": "Metro TV",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV"
   },
   {
     "id": "tvone",
@@ -93,11 +123,6 @@
     "id": "rtv",
     "server": "RTV",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV"
-  },
-  {
-    "id": "magnachannel",
-    "server": "Magna Channel",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel"
   },
   {
     "id": "jaktv",
