@@ -2,22 +2,22 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749616041~acl=%2F*~data=hdntl~hmac=2971099449fa3e4718fc766d760496edaa5703132eb162272041c36e2a75c7e4/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749625532~acl=%2F*~data=hdntl~hmac=f222ab2e6728486dd517570f561d3ca9ae67529d0bfbd18953791b132cbc2868/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749616041~acl=%2F*~data=hdntl~hmac=2971099449fa3e4718fc766d760496edaa5703132eb162272041c36e2a75c7e4/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749625532~acl=%2F*~data=hdntl~hmac=f222ab2e6728486dd517570f561d3ca9ae67529d0bfbd18953791b132cbc2868/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749616041~acl=%2F*~data=hdntl~hmac=2971099449fa3e4718fc766d760496edaa5703132eb162272041c36e2a75c7e4/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749625532~acl=%2F*~data=hdntl~hmac=f222ab2e6728486dd517570f561d3ca9ae67529d0bfbd18953791b132cbc2868/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "inews",
     "server": "INEWS",
-    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749616041~acl=%2F*~data=hdntl~hmac=2971099449fa3e4718fc766d760496edaa5703132eb162272041c36e2a75c7e4/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749625532~acl=%2F*~data=hdntl~hmac=f222ab2e6728486dd517570f561d3ca9ae67529d0bfbd18953791b132cbc2868/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "tvri",
@@ -48,6 +48,16 @@
     "id": "20detik",
     "server": "20 Detik",
     "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
+  },
+  {
+    "id": "indosiar",
+    "server": "Indosiar",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8"
+  },
+  {
+    "id": "sctv",
+    "server": "SCTV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
   },
   {
     "id": "antv",
