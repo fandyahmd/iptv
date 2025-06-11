@@ -2,22 +2,22 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749677800~acl=%2F*~data=hdntl~hmac=443e616e4c852c76c92380b00901783f7cd0fb8eb3deea606d90cc2809baf3ef/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749680793~acl=%2F*~data=hdntl~hmac=3c824efc342fbe50b29932112f82a386c34d779a51068a0107b1da7d337f3fb1/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749677800~acl=%2F*~data=hdntl~hmac=443e616e4c852c76c92380b00901783f7cd0fb8eb3deea606d90cc2809baf3ef/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749680793~acl=%2F*~data=hdntl~hmac=3c824efc342fbe50b29932112f82a386c34d779a51068a0107b1da7d337f3fb1/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749677800~acl=%2F*~data=hdntl~hmac=443e616e4c852c76c92380b00901783f7cd0fb8eb3deea606d90cc2809baf3ef/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749680793~acl=%2F*~data=hdntl~hmac=3c824efc342fbe50b29932112f82a386c34d779a51068a0107b1da7d337f3fb1/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "inews",
     "server": "INEWS",
-    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749677800~acl=%2F*~data=hdntl~hmac=443e616e4c852c76c92380b00901783f7cd0fb8eb3deea606d90cc2809baf3ef/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://inews-linier.rctiplus.id/hdntl=exp=1749680793~acl=%2F*~data=hdntl~hmac=3c824efc342fbe50b29932112f82a386c34d779a51068a0107b1da7d337f3fb1/inews-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "tvri",
