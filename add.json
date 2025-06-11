@@ -38,5 +38,40 @@
     "id": "sctv",
     "server": "SCTV",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+  },
+  {
+    "id": "metrotv",
+    "server": "Metro TV",
+    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+  },
+  {
+    "id": "magnatv",
+    "server": "Magna TV",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnn",
+    "server": "CNN",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnbc",
+    "server": "CNBC",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+  },
+  {
+    "id": "garudatv",
+    "server": "Garuda TV",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+  },
+  {
+    "id": "allplayent",
+    "server": "allplay ent.",
+    "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "id": "4ktravel",
+    "server": "4K Travel",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
   }
 ]

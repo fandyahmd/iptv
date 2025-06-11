@@ -12,10 +12,6 @@ channels = [
     "name": "ANTV",
   },
   {
-    "url": "https://www.dens.tv/tv-local/watch/6/metro-tv",
-    "name": "Metro TV",
-  },
-  {
     "url": "https://www.dens.tv/tv-local/watch/7/tvone",
     "name": "TV One",
   },
@@ -34,10 +30,6 @@ channels = [
   {
     "url": "https://www.dens.tv/tv-local/watch/22/rtv",
     "name": "RTV",
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/122/magna-channel",
-    "name": "Magna Channel",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/112/jak-tv",
@@ -172,7 +164,6 @@ def get_links_from_channel(channel):
     url = channel["url"]
     name = channel["name"]
     driver = setup_driver()
-    all_links = []
     try:
         print(f"\n📺 Membuka: {url}")
         driver.get(url)

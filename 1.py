@@ -118,7 +118,6 @@ def process_channel(name, url):
 
     return False
 
-# === MAIN START ===
 print("🚀 Memulai proses scraping...")
 success = False
 for name, url in channels.items():
