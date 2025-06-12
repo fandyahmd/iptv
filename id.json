@@ -2,17 +2,17 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749745545~acl=%2F*~data=hdntl~hmac=d53fd4749861aeb8671a9bbf153178284a6474401eccb5f2d4e10ef8c8060e73/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749747818~acl=%2F*~data=hdntl~hmac=2908ab1a5758f6e7554569ad5c61a27c3f7fdf7746f99bea627b8b242cea6c70/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749745545~acl=%2F*~data=hdntl~hmac=d53fd4749861aeb8671a9bbf153178284a6474401eccb5f2d4e10ef8c8060e73/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749747818~acl=%2F*~data=hdntl~hmac=2908ab1a5758f6e7554569ad5c61a27c3f7fdf7746f99bea627b8b242cea6c70/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749745545~acl=%2F*~data=hdntl~hmac=d53fd4749861aeb8671a9bbf153178284a6474401eccb5f2d4e10ef8c8060e73/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749747818~acl=%2F*~data=hdntl~hmac=2908ab1a5758f6e7554569ad5c61a27c3f7fdf7746f99bea627b8b242cea6c70/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "tvri",
@@ -87,12 +87,12 @@
   {
     "id": "indosiar",
     "server": "Indosiar",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8"
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
   },
   {
     "id": "sctv",
     "server": "SCTV",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
   },
   {
     "id": "magnatv",
@@ -130,6 +130,41 @@
     "url": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
   },
   {
+    "id": "kplus",
+    "server": "K+",
+    "url": "https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd"
+  },
+  {
+    "id": "thrill",
+    "server": "Thrill",
+    "url": "https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd"
+  },
+  {
+    "id": "mtv",
+    "server": "MTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd"
+  },
+  {
+    "id": "tv5monde",
+    "server": "TV5 Monde",
+    "url": "https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd"
+  },
+  {
+    "id": "warner",
+    "server": "Warner",
+    "url": "https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd"
+  },
+  {
+    "id": "axn",
+    "server": "AXN",
+    "url": "https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd"
+  },
+  {
+    "id": "cartoonito",
+    "server": "Cartoonito",
+    "url": "https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd"
+  },
+  {
     "id": "4ktravel",
     "server": "4K Travel",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
@@ -143,11 +178,6 @@
     "id": "maxstream",
     "server": "Maxstream",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd"
-  },
-  {
-    "id": "citradrama",
-    "server": "Citra Drama",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd"
   },
   {
     "id": "citradrama",
@@ -210,11 +240,6 @@
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World"
   },
   {
-    "id": "khd",
-    "server": "K+ HD",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD"
-  },
-  {
     "id": "tvnhd",
     "server": "tVN HD",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=lite&chname=tvN_HD"
@@ -240,19 +265,9 @@
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia"
   },
   {
-    "id": "thrill",
-    "server": "Thrill",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=lite&chname=Thrill"
-  },
-  {
     "id": "mycinemaeuropehd",
     "server": "My Cinema Europe HD",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD"
-  },
-  {
-    "id": "tv5mondestylehd",
-    "server": "TV5Monde Style HD",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_Style_HD"
   },
   {
     "id": "crematv",
