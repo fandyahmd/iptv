@@ -2,17 +2,17 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749742310~acl=%2F*~data=hdntl~hmac=ff6c55f220691fbec492b620970440706f596e78f34a47be93410ecc70f72c56/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1749744161~acl=%2F*~data=hdntl~hmac=1fea4348b09a1456b4a28461595ab28ed74a0c8c9ebfc64ea378b02b9920b4cb/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
     "server": "GTV",
-    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749742310~acl=%2F*~data=hdntl~hmac=ff6c55f220691fbec492b620970440706f596e78f34a47be93410ecc70f72c56/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1749744161~acl=%2F*~data=hdntl~hmac=1fea4348b09a1456b4a28461595ab28ed74a0c8c9ebfc64ea378b02b9920b4cb/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749742310~acl=%2F*~data=hdntl~hmac=ff6c55f220691fbec492b620970440706f596e78f34a47be93410ecc70f72c56/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1749744161~acl=%2F*~data=hdntl~hmac=1fea4348b09a1456b4a28461595ab28ed74a0c8c9ebfc64ea378b02b9920b4cb/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "tvri",
@@ -63,6 +63,26 @@
     "id": "inews",
     "server": "iNews",
     "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
+  },
+  {
+    "id": "rtv",
+    "server": "RTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
+  },
+  {
+    "id": "sindonewstv",
+    "server": "Sindo News TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+  },
+  {
+    "id": "antaratv",
+    "server": "Antara TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
+  },
+  {
+    "id": "atv",
+    "server": "ATV",
+    "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
   },
   {
     "id": "indosiar",
@@ -153,21 +173,6 @@
     "id": "mdtv",
     "server": "MD TV",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV"
-  },
-  {
-    "id": "rtv",
-    "server": "RTV",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV"
-  },
-  {
-    "id": "jaktv",
-    "server": "Jak TV",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=lite&chname=Jak_tv"
-  },
-  {
-    "id": "rodjatv",
-    "server": "Rodja TV",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=lite&chname=RodjaTV"
   },
   {
     "id": "aniplushd",
