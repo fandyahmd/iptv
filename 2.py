@@ -20,18 +20,6 @@ channels = [
     "name": "MD TV",
   },
   {
-    "url": "https://www.dens.tv/tv-local/watch/22/rtv",
-    "name": "RTV",
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/112/jak-tv",
-    "name": "Jak TV",
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/21/rodjatv",
-    "name": "Rodja TV",
-  },
-  {
     "url": "https://www.dens.tv/tv-premium/watch/38/aniplus-hd",
     "name": "Aniplus HD",
   },
