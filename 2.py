@@ -48,10 +48,6 @@ channels = [
     "name": "KBS World",
   },
   {
-    "url": "https://www.dens.tv/tv-premium/watch/100/k-plus-hd",
-    "name": "K+ HD",
-  },
-  {
     "url": "https://www.dens.tv/tv-premium/watch/59/tvn-hd",
     "name": "tVN HD",
   },
@@ -72,10 +68,6 @@ channels = [
     "name": "My Cinema Asia",
   },
   {
-    "url": "https://www.dens.tv/tv-premium/watch/55/thrill",
-    "name": "Thrill",
-  },
-  {
     "url": "https://www.dens.tv/tv-premium/watch/95/my-cinema-hd",
     "name": "My Cinema HD",
   },
@@ -86,10 +78,6 @@ channels = [
   {
     "url": "https://www.dens.tv/tv-premium/watch/114/my-family-channel",
     "name": "My Family",
-  },
-  {
-    "url": "https://www.dens.tv/tv-premium/watch/37/tv5monde-style-hd",
-    "name": "TV5Monde Style HD",
   },
   {
     "url": "https://www.dens.tv/tv-premium/watch/127/crematv",
