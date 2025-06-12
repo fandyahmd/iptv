@@ -8,16 +8,8 @@ import asyncio
 
 channels = [
   {
-    "url": "https://www.dens.tv/tv-local/watch/8/antv",
-    "name": "ANTV",
-  },
-  {
     "url": "https://www.dens.tv/tv-local/watch/7/tvone",
     "name": "TV One",
-  },
-  {
-    "url": "https://www.dens.tv/tv-local/watch/14/kompas-tv",
-    "name": "Kompas TV",
   },
   {
     "url": "https://www.dens.tv/tv-local/watch/131/berita-satu",

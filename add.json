@@ -17,17 +17,37 @@
   {
     "id": "trans7",
     "server": "TRANS7",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    "url": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd"
   },
   {
     "id": "transtv",
     "server": "TRANSTV",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    "url": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd"
   },
   {
     "id": "20detik",
     "server": "20 Detik",
     "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
+  },
+  {
+    "id": "antv",
+    "server": "ANTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd"
+  },
+  {
+    "id": "metrotv",
+    "server": "Metro TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd"
+  },
+  {
+    "id": "kompastv",
+    "server": "Kompas TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd"
+  },
+  {
+    "id": "inews",
+    "server": "iNews",
+    "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
   },
   {
     "id": "indosiar",
@@ -38,11 +58,6 @@
     "id": "sctv",
     "server": "SCTV",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
-  },
-  {
-    "id": "metrotv",
-    "server": "Metro TV",
-    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
   },
   {
     "id": "magnatv",
@@ -68,6 +83,16 @@
     "id": "allplayent",
     "server": "allplay ent.",
     "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "id": "funplanet",
+    "server": "Fun Planet",
+    "url": "https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd"
+  },
+  {
+    "id": "seatoday",
+    "server": "SEA Today",
+    "url": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
   },
   {
     "id": "4ktravel",

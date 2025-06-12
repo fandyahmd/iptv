@@ -10,8 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 channels = {
     "rcti": "https://www.rctiplus.com/tv/rcti",
     "gtv": "https://www.rctiplus.com/tv/gtv",
-    "mnctv": "https://www.rctiplus.com/tv/mnctv",
-    "inews": "https://www.rctiplus.com/tv/inews"
+    "mnctv": "https://www.rctiplus.com/tv/mnctv"
 }
 
 json_entries = []
