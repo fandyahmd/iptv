@@ -55,29 +55,19 @@
     "url": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
   },
   {
-    "id": "rodjatv",
-    "server": "Rodja TV",
-    "url": "https://streaming.indihometv.com/atm/DASH/rodjatv/manifest.mpd"
-  },
-  {
-    "id": "jtv",
-    "server": "JTV",
-    "url": "https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd"
-  },
-  {
     "id": "sindonewstv",
     "server": "Sindo News TV",
     "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd"
   },
   {
-    "id": "btv",
-    "server": "BTV",
-    "url": "https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd"
+    "id": "antaratv",
+    "server": "Antara TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
   },
   {
-    "id": "jaktv",
-    "server": "Jak TV",
-    "url": "https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd"
+    "id": "atv",
+    "server": "ATV",
+    "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
   },
   {
     "id": "indosiar",
