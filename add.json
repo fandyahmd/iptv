@@ -1,0 +1,177 @@
+[
+  {
+    "id": "tvri",
+    "server": "TVRI",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+  },
+  {
+    "id": "tvrisport",
+    "server": "TVRI Sport",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+  },
+  {
+    "id": "tvriworld",
+    "server": "TVRI World",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+  },
+  {
+    "id": "trans7",
+    "server": "TRANS7",
+    "url": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd"
+  },
+  {
+    "id": "transtv",
+    "server": "TRANSTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd"
+  },
+  {
+    "id": "20detik",
+    "server": "20 Detik",
+    "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
+  },
+  {
+    "id": "antv",
+    "server": "ANTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd"
+  },
+  {
+    "id": "metrotv",
+    "server": "Metro TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd"
+  },
+  {
+    "id": "kompastv",
+    "server": "Kompas TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd"
+  },
+  {
+    "id": "inews",
+    "server": "iNews",
+    "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
+  },
+  {
+    "id": "rtv",
+    "server": "RTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
+  },
+  {
+    "id": "sindonewstv",
+    "server": "Sindo News TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+  },
+  {
+    "id": "antaratv",
+    "server": "Antara TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
+  },
+  {
+    "id": "atv",
+    "server": "ATV",
+    "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
+  },
+  {
+    "id": "indosiar",
+    "server": "Indosiar",
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+  },
+  {
+    "id": "sctv",
+    "server": "SCTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+  },
+  {
+    "id": "magnatv",
+    "server": "Magna TV",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnn",
+    "server": "CNN",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnbc",
+    "server": "CNBC",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+  },
+  {
+    "id": "garudatv",
+    "server": "Garuda TV",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+  },
+  {
+    "id": "allplayent",
+    "server": "allplay ent.",
+    "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "id": "funplanet",
+    "server": "Fun Planet",
+    "url": "https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd"
+  },
+  {
+    "id": "seatoday",
+    "server": "SEA Today",
+    "url": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
+  },
+  {
+    "id": "kplus",
+    "server": "K+",
+    "url": "https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd"
+  },
+  {
+    "id": "thrill",
+    "server": "Thrill",
+    "url": "https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd"
+  },
+  {
+    "id": "mtv",
+    "server": "MTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd"
+  },
+  {
+    "id": "tv5monde",
+    "server": "TV5 Monde",
+    "url": "https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd"
+  },
+  {
+    "id": "warner",
+    "server": "Warner",
+    "url": "https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd"
+  },
+  {
+    "id": "axn",
+    "server": "AXN",
+    "url": "https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd"
+  },
+  {
+    "id": "cartoonito",
+    "server": "Cartoonito",
+    "url": "https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd"
+  },
+  {
+    "id": "4ktravel",
+    "server": "4K Travel",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
+  },
+  {
+    "id": "hitsnow",
+    "server": "Hits Now",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd"
+  },
+  {
+    "id": "maxstream",
+    "server": "Maxstream",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd"
+  },
+  {
+    "id": "citradrama",
+    "server": "Citra Drama",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd"
+  },
+  {
+    "id": "cartoonnetwork",
+    "server": "Cartoon Network",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd"
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "id": "rcti",
+    "server": "RCTI",
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1750019273~acl=%2F*~data=hdntl~hmac=63d3d03b10ff7a579af70284c581f35bd90997afb6db0e4cd319e0840872f36b/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "gtv",
+    "server": "GTV",
+    "url": "https://gtv-linier.rctiplus.id/hdntl=exp=1750019273~acl=%2F*~data=hdntl~hmac=63d3d03b10ff7a579af70284c581f35bd90997afb6db0e4cd319e0840872f36b/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "mnctv",
+    "server": "MNCTV",
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1750019273~acl=%2F*~data=hdntl~hmac=63d3d03b10ff7a579af70284c581f35bd90997afb6db0e4cd319e0840872f36b/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+  },
+  {
+    "id": "tvri",
+    "server": "TVRI",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+  },
+  {
+    "id": "tvrisport",
+    "server": "TVRI Sport",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+  },
+  {
+    "id": "tvriworld",
+    "server": "TVRI World",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+  },
+  {
+    "id": "trans7",
+    "server": "TRANS7",
+    "url": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd"
+  },
+  {
+    "id": "transtv",
+    "server": "TRANSTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd"
+  },
+  {
+    "id": "20detik",
+    "server": "20 Detik",
+    "url": "https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8"
+  },
+  {
+    "id": "antv",
+    "server": "ANTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd"
+  },
+  {
+    "id": "metrotv",
+    "server": "Metro TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd"
+  },
+  {
+    "id": "kompastv",
+    "server": "Kompas TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd"
+  },
+  {
+    "id": "inews",
+    "server": "iNews",
+    "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
+  },
+  {
+    "id": "rtv",
+    "server": "RTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
+  },
+  {
+    "id": "sindonewstv",
+    "server": "Sindo News TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+  },
+  {
+    "id": "antaratv",
+    "server": "Antara TV",
+    "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
+  },
+  {
+    "id": "atv",
+    "server": "ATV",
+    "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
+  },
+  {
+    "id": "indosiar",
+    "server": "Indosiar",
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+  },
+  {
+    "id": "sctv",
+    "server": "SCTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+  },
+  {
+    "id": "magnatv",
+    "server": "Magna TV",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnn",
+    "server": "CNN",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+  },
+  {
+    "id": "cnbc",
+    "server": "CNBC",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+  },
+  {
+    "id": "garudatv",
+    "server": "Garuda TV",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+  },
+  {
+    "id": "allplayent",
+    "server": "allplay ent.",
+    "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "id": "funplanet",
+    "server": "Fun Planet",
+    "url": "https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd"
+  },
+  {
+    "id": "seatoday",
+    "server": "SEA Today",
+    "url": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
+  },
+  {
+    "id": "kplus",
+    "server": "K+",
+    "url": "https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd"
+  },
+  {
+    "id": "thrill",
+    "server": "Thrill",
+    "url": "https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd"
+  },
+  {
+    "id": "mtv",
+    "server": "MTV",
+    "url": "https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd"
+  },
+  {
+    "id": "tv5monde",
+    "server": "TV5 Monde",
+    "url": "https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd"
+  },
+  {
+    "id": "warner",
+    "server": "Warner",
+    "url": "https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd"
+  },
+  {
+    "id": "axn",
+    "server": "AXN",
+    "url": "https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd"
+  },
+  {
+    "id": "cartoonito",
+    "server": "Cartoonito",
+    "url": "https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd"
+  },
+  {
+    "id": "4ktravel",
+    "server": "4K Travel",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"
+  },
+  {
+    "id": "hitsnow",
+    "server": "Hits Now",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd"
+  },
+  {
+    "id": "maxstream",
+    "server": "Maxstream",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd"
+  },
+  {
+    "id": "citradrama",
+    "server": "Citra Drama",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd"
+  },
+  {
+    "id": "cartoonnetwork",
+    "server": "Cartoon Network",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd"
+  },
+  {
+    "id": "tvone",
+    "server": "TV One",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne"
+  },
+  {
+    "id": "beritasatu",
+    "server": "Berita Satu",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index2.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
+  },
+  {
+    "id": "mdtv",
+    "server": "MD TV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV"
+  },
+  {
+    "id": "aniplushd",
+    "server": "Aniplus HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD"
+  },
+  {
+    "id": "mykidzhd",
+    "server": "My Kidz HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD"
+  },
+  {
+    "id": "rockentertainmenthd",
+    "server": "Rock Entertainment HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD"
+  },
+  {
+    "id": "rockaction",
+    "server": "Rock Action",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action"
+  },
+  {
+    "id": "kixhd",
+    "server": "Kix HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&userid=lite&chname=KIX_HD"
+  },
+  {
+    "id": "kbskorea",
+    "server": "KBS Korea",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea"
+  },
+  {
+    "id": "kbsworld",
+    "server": "KBS World",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World"
+  },
+  {
+    "id": "tvnhd",
+    "server": "tVN HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=lite&chname=tvN_HD"
+  },
+  {
+    "id": "tvnmovieshd",
+    "server": "tVN Movies HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD"
+  },
+  {
+    "id": "celestialmoviehd",
+    "server": "Celestial Movie HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=Celestial_Movies_HD"
+  },
+  {
+    "id": "ccm",
+    "server": "CCM",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&userid=lite&chname=CCM_Celestial_Classic_MV-"
+  },
+  {
+    "id": "mycinemaasia",
+    "server": "My Cinema Asia",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia"
+  },
+  {
+    "id": "mycinemaeuropehd",
+    "server": "My Cinema Europe HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD"
+  },
+  {
+    "id": "crematv",
+    "server": "Crema TV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV"
+  },
+  {
+    "id": "dancetv",
+    "server": "Dance TV",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&userid=lite&chname=Dance_TV"
+  },
+  {
+    "id": "fightsportshd",
+    "server": "Fight Sports HD",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD"
+  },
+  {
+    "id": "motorvision",
+    "server": "Motorvision",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B"
+  },
+  {
+    "id": "wsport",
+    "server": "W Sport",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport"
+  }
+]
