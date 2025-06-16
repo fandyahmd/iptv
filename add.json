@@ -72,7 +72,7 @@
   {
     "id": "indosiar",
     "server": "Indosiar",
-    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+    "url": "https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd"
   },
   {
     "id": "sctv",
