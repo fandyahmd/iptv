@@ -1,5 +1,10 @@
 [
   {
+    "id": "gtv",
+    "server": "GTV",
+    "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
+  },
+  {
     "id": "tvri",
     "server": "TVRI",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
