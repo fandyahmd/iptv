@@ -2,12 +2,12 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1750735588~acl=%2F*~data=hdntl~hmac=1fbb9b235656b05fbba286f1dcf4b573e72a1430f6f16788a34b00fc0d17f5f6/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1750738993~acl=%2F*~data=hdntl~hmac=c716cf7fdfcc6c77db2f013a660b37ec46a8bf77495d5a52ef1dae552d32a6bd/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1750735588~acl=%2F*~data=hdntl~hmac=1fbb9b235656b05fbba286f1dcf4b573e72a1430f6f16788a34b00fc0d17f5f6/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1750738993~acl=%2F*~data=hdntl~hmac=c716cf7fdfcc6c77db2f013a660b37ec46a8bf77495d5a52ef1dae552d32a6bd/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
