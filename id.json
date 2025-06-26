@@ -2,12 +2,12 @@
   {
     "id": "rcti",
     "server": "RCTI",
-    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1750926305~acl=%2F*~data=hdntl~hmac=7e21a29097329899f9fe63fd826bd7492abb1a9cdef7ceac6bcc1f3580066612/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://rcti-linier.rctiplus.id/hdntl=exp=1750930576~acl=%2F*~data=hdntl~hmac=feca86b7cca031f314d3203e2a5bc59f23f1eb763c2ae7e1d440a635b456f595/rcti-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "mnctv",
     "server": "MNCTV",
-    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1750926305~acl=%2F*~data=hdntl~hmac=7e21a29097329899f9fe63fd826bd7492abb1a9cdef7ceac6bcc1f3580066612/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
+    "url": "https://mnctv-linier.rctiplus.id/hdntl=exp=1750930576~acl=%2F*~data=hdntl~hmac=feca86b7cca031f314d3203e2a5bc59f23f1eb763c2ae7e1d440a635b456f595/mnctv-sdi-avc1_800000=9-mp4a_96000=1.m3u8"
   },
   {
     "id": "gtv",
@@ -197,7 +197,7 @@
   {
     "id": "beritasatu",
     "server": "Berita Satu",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index2.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8?app_type=web&userid=lite&chname=Berita_Satu"
   },
   {
     "id": "mdtv",
